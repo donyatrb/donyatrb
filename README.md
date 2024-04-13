@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @donyatrb
-- 👀 I’m interested in coding, sport, skating & finding new friends
+- 👀 I’m interested in PHP and its frameworks such as `Laravel, Mezzio & Laminas`
 - 🌱 I’m currently learning DS deeply
 - 💞️ I’m looking to collaborate on different international projects
 - 📫 donya.torabi01@gmail.com
